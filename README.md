@@ -24,11 +24,7 @@ This project focuses on building an end-to-end **data analytics and business int
 * Quality Analysis
 * Root Cause Analysis
 * Prediction Insights
-
-## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
+  
 ## 📈 Key Insights
 
 * Identified departments with highest low-quality reports
